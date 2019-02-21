@@ -16,3 +16,11 @@ tags, but as collections, a huge number of collections!
 Then, this script can convert 'labels' of google bookmarks into 'tags' of raindrop.io,
 so that we can migrate to raindrop.io without loss of past labeling.
 
+## Run
+
+```
+$ python3 main.py
+```
+
+Paths of source and output files are defined in top off main.py by hardcoding.
+
